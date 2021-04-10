@@ -2,3 +2,10 @@
 
 # 过滤目录
 node_modules/
+
+
+## 过滤文件
+*.zip
+*.rar
+*.mp3
+*.mp4
